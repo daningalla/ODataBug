@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "f2kV6kgTwYbihDe56R7VNGkWO2zQC3jP4ikXY4MXtQYJLZf5fT6T6nbI5fmEzNDta2C8BsIn89AWyOEwpwG5SA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dan65449\\Dev\\research\\ODataBug\\ODataBug.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dan65449\\.nuget\\packages\\bogus\\33.0.2\\bogus.33.0.2.nupkg.sha512",
+    "C:\\Users\\dan65449\\.nuget\\packages\\microsoft.aspnetcore.odata\\8.0.0-rc\\microsoft.aspnetcore.odata.8.0.0-rc.nupkg.sha512",
+    "C:\\Users\\dan65449\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\dan65449\\.nuget\\packages\\microsoft.odata.core\\7.8.2\\microsoft.odata.core.7.8.2.nupkg.sha512",
+    "C:\\Users\\dan65449\\.nuget\\packages\\microsoft.odata.edm\\7.8.2\\microsoft.odata.edm.7.8.2.nupkg.sha512",
+    "C:\\Users\\dan65449\\.nuget\\packages\\microsoft.odata.modelbuilder\\1.0.5\\microsoft.odata.modelbuilder.1.0.5.nupkg.sha512",
+    "C:\\Users\\dan65449\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\dan65449\\.nuget\\packages\\microsoft.spatial\\7.8.2\\microsoft.spatial.7.8.2.nupkg.sha512",
+    "C:\\Users\\dan65449\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\dan65449\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\dan65449\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\dan65449\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\dan65449\\.nuget\\packages\\system.componentmodel.annotations\\4.6.0\\system.componentmodel.annotations.4.6.0.nupkg.sha512",
+    "C:\\Users\\dan65449\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
